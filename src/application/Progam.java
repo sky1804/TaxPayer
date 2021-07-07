@@ -51,7 +51,7 @@ public class Progam {
 		System.out.println();
 		System.out.println("TOTAL TAXES: $ "+ String.format("%.2f", sum));
 		
-		
+//teste//		
 		sc.close();
 	}
 
